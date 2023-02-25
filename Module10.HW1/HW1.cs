@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
-using Module10.HW1;
+using MyNameSpace;
 
 
-namespace hw1
+namespace MyNameSpace
 {
     public class Calculate : ICalcSum, ILogger
     {

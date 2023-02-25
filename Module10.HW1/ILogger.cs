@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Threading;
 
-namespace Module10.HW1
+namespace MyNameSpace
 {
     public interface ILogger
     {
